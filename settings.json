@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Server Online",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "Server Online",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Naruto_69_SMP_S1.aternos.me",
+    "port": 14367,
     "version": "1.21.1"
   },
   "position": {
